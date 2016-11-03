@@ -15,12 +15,12 @@ def readme():
 
 
 setup(
-    name='migrations',
+    name='startup-migrations',
     version='0.0.0',
     description='Database migration helpers.',
     long_description=readme(),
     keywords='system database migrations postgres',
-    url='http://github.com/ocelot-saas/migrations',
+    url='http://github.com/ocelot-saas/startup-migrations',
     author='Horia Coman',
     author_email='horia141@gmail.com',
     license='All right reserved',

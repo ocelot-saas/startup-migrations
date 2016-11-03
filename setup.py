@@ -16,7 +16,7 @@ def readme():
 
 setup(
     name='startup-migrations',
-    version='0.0.0',
+    version='0.0.1',
     description='Database migration helpers.',
     long_description=readme(),
     keywords='system database migrations postgres',

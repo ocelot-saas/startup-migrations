@@ -1,0 +1,9 @@
+--index-url https://pypi.python.org/simple/
+
+# Duplicated from setup.py.
+psycopg2>=2,<3
+yoyo-migrations>=5,<6
+
+# Duplicated from setup.py, for testing.
+coverage>=4,<5
+coveralls>=1,<2
